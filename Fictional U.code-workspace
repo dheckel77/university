@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "wp-content"
+		}
+	],
+	"settings": {
+		"editor.fontSize": 16,
+		"editor.parameterHints.enabled": false,
+		"javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+		"javascript.format.placeOpenBraceOnNewLineForFunctions": true
+	}
+}
